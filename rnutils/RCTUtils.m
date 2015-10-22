@@ -81,11 +81,11 @@ RCT_EXPORT_METHOD(isOnCall:(RCTResponseSenderBlock)callback)
         {
             if(call.callState == CTCallStateConnected)
             {
-                self.callback(@[@TRUE]);
+                self.callback(@[@"yes"]);
             }
         }
     } else {
-        self.callback(@[@FALSE]);
+        self.callback(@[@"no"]);
     }
 }
 

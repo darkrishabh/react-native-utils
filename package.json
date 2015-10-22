@@ -1,6 +1,6 @@
 {
   "name": "react-native-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Native Utility module to wrap a set of simple methods.",
   "main": "rnutils.js",
   "scripts": {

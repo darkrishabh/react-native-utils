@@ -40,13 +40,11 @@ var RNUtils = {
         RCTUtilsManager.openSettings()
     },
     isOnCall: function (callback) {
-        if (callback) {
-            RCTUtilsManager.isOnCall(callback)
-        } else {
-            RCTUtilsManager.isOnCall(function(response){
-                console.log(response)
-            })
-        }
+        RCTUtilsManager.isOnCall(function (response) {
+            if (callback) {
+                callback(response === "yes")
+            }
+        })
     }
 };
 
