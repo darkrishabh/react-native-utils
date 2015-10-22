@@ -1,5 +1,5 @@
 /**
- * @providesModule ActivityView
+ * @providesModule RNUTils
  * @flow
  */
 'use strict';
@@ -10,10 +10,6 @@ var {
     } = React;
 
 var RCTUtilsManager = NativeModules.RCTUtils;
-
-/**
- * High-level docs for the ActivityView iOS API can be written here.
- */
 
 var RNUtils = {
     sendSMS: function (message, phone_numbers, callback) {
@@ -54,4 +50,4 @@ var RNUtils = {
     }
 };
 
-module.exports = ActivityView;
+module.exports = RNUtils;

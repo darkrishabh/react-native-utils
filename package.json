@@ -2,13 +2,13 @@
   "name": "react-native-utils",
   "version": "0.1.0",
   "description": "A Native Utility module to wrap a set of simple methods.",
-  "main": "index.ios.js",
+  "main": "rnutils.js",
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/darkrishabh/react-native-db-models.git"
+    "url": "https://github.com/darkrishabh/react-native-utils.git"
   },
   "keywords": [
     "react native",
@@ -22,9 +22,9 @@
   "author": "Rishabh Mehan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/darkrishabh/react-native-db-models/issues"
+    "url": "https://github.com/darkrishabh/react-native-utils/issues"
   },
-  "homepage": "https://github.com/darkrishabh/react-native-db-models",
+  "homepage": "https://github.com/darkrishabh/react-native-utils",
   "devDependencies": {
     "react-native": "^0.12.0"
   }
