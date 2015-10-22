@@ -9,7 +9,7 @@ var {
     NativeModules
     } = React;
 
-var RCTUtilsManager = NativeModules.RCTUtils;
+var RCTUtilsManager = NativeModules.Utils;
 
 var RNUtils = {
     sendSMS: function (message, phone_numbers, callback) {
