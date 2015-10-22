@@ -3,6 +3,7 @@
 RNUtils is a simple wrapper for all the native methods that are simple to execute. 
 Currently there are these methods -
 
+Check the [Demo] here
   - Send SMS (single/or group message available)
   - Open Settings for your app
   - Check if the user is on a call
@@ -129,3 +130,7 @@ MIT
 
 **Free Software, Hell Yeah!**
 
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does it's job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+
+   [Demo]: <https://youtu.be/4dzROh2fhHw>
