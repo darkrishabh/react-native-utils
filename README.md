@@ -1,4 +1,6 @@
 # React Native Utils
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdarkrishabh%2Freact-native-utils.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdarkrishabh%2Freact-native-utils?ref=badge_shield)
+
 
 RNUtils is a simple wrapper for all the native methods that are simple to execute. 
 Currently there are these methods -
@@ -134,3 +136,7 @@ MIT
 
 
    [Demo]: <https://youtu.be/4dzROh2fhHw>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdarkrishabh%2Freact-native-utils.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdarkrishabh%2Freact-native-utils?ref=badge_large)
